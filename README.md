@@ -8,6 +8,7 @@ This project is a comprehensive data engineering pipeline built to process and a
 ---
 
 ## Project Structure
+```
 Fintech-Pipeline/
 ├── Milestone1/
 │   ├── fintech_raw.csv
@@ -28,6 +29,7 @@ Fintech-Pipeline/
 │   │   └── dashboard_screenshots/
 │   └── README.md
 └── requirements.txt
+```
 
 ## Milestone 1: Data Cleaning & Feature Engineering
 
