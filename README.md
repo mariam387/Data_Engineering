@@ -14,8 +14,6 @@ Fintech-Pipeline/
 │   ├── fintech_raw.csv
 │   ├── fintech_clean.csv
 │   ├── lookup_table.csv
-│   ├── DS_Data_Engineering_W24_M1.ipynb
-│   └── README.md
 ├── Milestone2/
 │   ├── dags/
 │   │   ├── extract_clean.py
